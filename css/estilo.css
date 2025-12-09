@@ -14,6 +14,10 @@ h1 {
     font-size: 3em;
 }
 
+h2 {
+    color: brown;
+}
+
 nav {
     border: solid 1px;
 }
