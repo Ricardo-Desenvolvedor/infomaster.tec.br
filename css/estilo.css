@@ -19,6 +19,7 @@ h2 {
 }
 
 nav {
+    background-color: aquamarine;
     border: solid 1px;
     color: aqua;
 }
